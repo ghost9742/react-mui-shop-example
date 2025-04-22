@@ -1,0 +1,30 @@
+.shop {
+  background-color: #25232334;
+  height: 100%;
+  padding: 1rem;
+}
+
+.navigation {
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100wv;
+  padding: .5rem 3rem;
+  border-bottom: 1px solid lightgray;
+}
+
+.shop-img,
+.shop-icon,
+.icon {
+  mask-size: 100%;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  mask-position: center;
+  width: 150px;
+  height: 150px;
+}
+
+.icon {
+  height: 100%;
+}

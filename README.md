@@ -5,7 +5,7 @@ This project is a simple e-commerce application built with React and Material-UI
 ## Features
 
 - **Product Listing**: Displays a list of products with images, descriptions, and prices.
-- **Add to Cart**: Allows users to add products to a shopping cart.
+- **Add to/remove from Cart**: Allows users to add/remove products to a shopping cart.
 - **Responsive Design**: Optimized for both desktop and mobile devices using Material-UI components.
 - **State Management**: Utilizes React's Context API for managing global state.
 - **Routing**: Implements client-side routing with React Router.
